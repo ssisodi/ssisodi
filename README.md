@@ -2,10 +2,12 @@
 
 <h2>👨‍💻Portfolio Testing Projects:</h2>
 
-- <b>OpenCart Ecommerce Domain Automation Project</b>
+- <b>OpenCart Automation Project<i>--(Ecommerce Domain)</b></i>
   - [Automated the ecommerce site using Hybrid Framework](https://github.com/ssisodi/OpenCartProject_EcommerceDomain.git)
-- <b>Lexus Automobile Domain Automation Project </b>
+- <b>Lexus Automation Project<i>--(Automobile Domain)</b></i>
   - [Automated the Car dealership site using TestNG Framework](https://github.com/ssisodi/Lexus-Automobile-Project.git) <b><i></b></i>
+- <b>Barclay Automation Project<i>--(Banking domain)</b></i>
+  - [Automated the Banking site using TestNG Framework](https://github.com/ssisodi/Barclay-Automation-Project.git) <b><i></b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
