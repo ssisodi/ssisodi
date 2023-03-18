@@ -1,4 +1,4 @@
-<h1>Hi, I'm Siddhanth Sisodia! <br/><a href="https://github.com/joshmadakor1">Aspiring Automation Tester</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Former System Engineer</a></h1>
+<h1>Hi, I'm Siddhanth Sisodia! <br/><a href="https://github.com/joshmadakor1">Automation Tester</a> <a href="https://www.linkedin.com/in/joshmadakor/"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
