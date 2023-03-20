@@ -3,9 +3,9 @@
 <h2>👨‍💻Portfolio Testing Projects:</h2>
 
 - <b>OpenCart Automation Project<i>--(Ecommerce Sector Domain)</b></i>
-  - [Automated the ecommerce site using Hybrid Framework](https://github.com/ssisodi/OpenCartProject_EcommerceDomain.git)
+  - [Automated the e-Commerce site using Hybrid Framework](https://github.com/ssisodi/OpenCartProject_EcommerceDomain.git)
 - <b>Lexus Automation Project<i>--(Automobile Sector Domain)</b></i>
-  - [Automated the Car dealership site using TestNG Framework](https://github.com/ssisodi/Lexus-Automobile-Project.git) <b><i></b></i>
+  - [Automated the Car Dealership site using TestNG Framework](https://github.com/ssisodi/Lexus-Automobile-Project.git) <b><i></b></i>
 - <b>Barclay Automation Project<i>--(Banking Sector domain)</b></i>
   - [Automated the Banking site using TestNG Framework](https://github.com/ssisodi/Barclay-Automation-Project.git) <b><i></b></i>
 - <b>WazirX Automation Project<i>--(Crypto Sector Domain)</b></i>
