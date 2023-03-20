@@ -16,10 +16,12 @@
 
 - <b>Java and OOPS Concepts Programs </b>
   - [Java-OOPs practiced programs](https://github.com/ssisodi/Java_Programs_Practiced.git)
-- <b>Selenium Projects</b>
-  - [Selenium practiced programs](https://github.com/ssisodi/Selenium_Practice_Programs.git)
-- <b>SQL programs</b>
+- <b>Selenium Practiced Programs</b>
+  - [Selenium Practiced Programs](https://github.com/ssisodi/Selenium_Practice_Programs.git)
+- <b>SQL Programs</b>
   - [Crucial concepts of SQL](https://github.com/ssisodi/Selenium_Practice_Programs.git)
+- <b>API Testing </b>
+  - [Postman tool based practice](https://github.com/ssisodi/Selenium_Practice_Programs.git)
 
 <h2>📺 Popular YouTube Videos</h2>
 
