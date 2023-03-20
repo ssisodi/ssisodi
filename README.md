@@ -8,8 +8,11 @@
   - [Automated the Car dealership site using TestNG Framework](https://github.com/ssisodi/Lexus-Automobile-Project.git) <b><i></b></i>
 - <b>Barclay Automation Project<i>--(Banking domain)</b></i>
   - [Automated the Banking site using TestNG Framework](https://github.com/ssisodi/Barclay-Automation-Project.git) <b><i></b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>WazirX Automation Project<i>--(Crypto Domain)</b></i>
+  - [Automated the Wazirx site using TestNG Framework](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>PolicyBazaar Automation Project<i>--(Insurance Sector Domain)</b></i>
+  - [Automated the Financial site using TestNG Framework](https://github.com/joshmadakor1/Sentinel-Lab)
+  
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
