@@ -14,11 +14,9 @@
   - [Automated the Financial site using TestNG Framework](https://github.com/joshmadakor1/Sentinel-Lab)
   
 - <b>Java and OOPS Concepts Programs </b>
-  - [Java-OOPs practiced programs](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Java-OOPs practiced programs](https://github.com/ssisodi/Java_Programs_Practiced.git)
+- <b>Selenium Projects</b>
+  - [Selenium practiced programs](https://github.com/ssisodi/Selenium_Practice_Programs.git)
 
 <h2>📺 Popular YouTube Videos</h2>
 
