@@ -13,8 +13,8 @@
 - <b>PolicyBazaar Automation Project<i>--(Insurance Sector Domain)</b></i>
   - [Automated the Financial site using TestNG Framework](https://github.com/joshmadakor1/Sentinel-Lab)
   
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Java and OOPS Concepts Programs </b>
+  - [Java-OOPs practiced programs](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
