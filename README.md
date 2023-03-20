@@ -12,11 +12,14 @@
   - [Automated the Wazirx site using TestNG Framework](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>PolicyBazaar Automation Project<i>--(Insurance Sector Domain)</b></i>
   - [Automated the Financial site using TestNG Framework](https://github.com/joshmadakor1/Sentinel-Lab)
-  
+<h2>👨‍💻Technical Skills:</h2>
+
 - <b>Java and OOPS Concepts Programs </b>
   - [Java-OOPs practiced programs](https://github.com/ssisodi/Java_Programs_Practiced.git)
 - <b>Selenium Projects</b>
   - [Selenium practiced programs](https://github.com/ssisodi/Selenium_Practice_Programs.git)
+- <b>SQL programs</b>
+  - [Crucial concepts of SQL](https://github.com/ssisodi/Selenium_Practice_Programs.git)
 
 <h2>📺 Popular YouTube Videos</h2>
 
