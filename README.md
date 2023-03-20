@@ -2,20 +2,17 @@
 
 <h2>👨‍💻Portfolio Testing Projects:</h2>
 
-- <b>OpenCart Automation Project<i>--(Ecommerce Domain)</b></i>
+- <b>OpenCart Automation Project<i>--(Ecommerce Sector Domain)</b></i>
   - [Automated the ecommerce site using Hybrid Framework](https://github.com/ssisodi/OpenCartProject_EcommerceDomain.git)
-- <b>Lexus Automation Project<i>--(Automobile Domain)</b></i>
+- <b>Lexus Automation Project<i>--(Automobile Sector Domain)</b></i>
   - [Automated the Car dealership site using TestNG Framework](https://github.com/ssisodi/Lexus-Automobile-Project.git) <b><i></b></i>
-- <b>Barclay Automation Project<i>--(Banking domain)</b></i>
+- <b>Barclay Automation Project<i>--(Banking Sector domain)</b></i>
   - [Automated the Banking site using TestNG Framework](https://github.com/ssisodi/Barclay-Automation-Project.git) <b><i></b></i>
-- <b>WazirX Automation Project<i>--(Crypto Domain)</b></i>
+- <b>WazirX Automation Project<i>--(Crypto Sector Domain)</b></i>
   - [Automated the Wazirx site using TestNG Framework](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>PolicyBazaar Automation Project<i>--(Insurance Sector Domain)</b></i>
   - [Automated the Financial site using TestNG Framework](https://github.com/joshmadakor1/Sentinel-Lab)
   
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
